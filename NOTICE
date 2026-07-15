@@ -1,0 +1,16 @@
+mapaccuracy Python port
+
+This repository is an unofficial, LLM-assisted Python port of the
+mapaccuracy R package originally developed by Hugo Costa:
+
+https://github.com/hagc/mapaccuracy
+
+The original R package is licensed under the MIT License:
+
+Copyright (c) 2021 Hugo Costa
+
+The Python port, Python-specific tests, packaging, and documentation
+were prepared and reviewed by Timothée Stassin in 2026.
+
+The statistical estimators implemented by this package are described in
+the scientific publications cited in the README.
