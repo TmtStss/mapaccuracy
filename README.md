@@ -25,8 +25,14 @@ Implemented estimators are described in:
 
 ## Installation
 
+Install directly from GitHub:
 ```bash
-git clone https://github.com/hagc/mapaccuracy.git
+pip install git+https://github.com/TmtStss/mapaccuracy.git
+```
+
+Alternatively, clone the repository and install it locally:
+```bash
+git clone https://github.com/TmtStss/mapaccuracy.git
 cd mapaccuracy
 pip install .
 ```
