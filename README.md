@@ -3,19 +3,15 @@
 Unbiased estimators of overall and per-class thematic map accuracy and area for diverse sampling designs (simple, systematic and stratified).
 
 
-[!IMPORTANT]
+**IMPORTANT DISCLAIMER.**
 This repository is an unofficial, LLM-assisted Python port of the
 original [`mapaccuracy`](https://github.com/hagc/mapaccuracy) R package
-by Hugo Costa.
-
-The original R package is the authoritative upstream implementation
+by Hugo Costa. The original R package is the authoritative upstream implementation
 and may include features, fixes, or updates not available in this port.
 The Python implementation has been reviewed and tested against the
 numerical examples covered by the test suite. Small numerical
 differences may occur because of implementation details and
-floating-point arithmetic.
-
-This project is not affiliated with or endorsed by the original author.
+floating-point arithmetic. This project is not affiliated with or endorsed by the original author.
 
 ## Overview
 
