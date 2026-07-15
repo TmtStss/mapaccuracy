@@ -7,7 +7,7 @@ name = "mapaccuracy"
 version = "0.1.2"
 description = "Unbiased Thematic Map Accuracy and Area"
 readme = "README.md"
-authors = []
+authors = ["Timothée Stassin"]
 requires-python = ">=3.10.12"
 dependencies = [
     "numpy>=1.19.0",
